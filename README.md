@@ -7,7 +7,7 @@ Apache Flex SDK Installer
 * 原版代码(1.0.9)下载地址：[http://flex.apache.org/installer.html](http://flex.apache.org/installer.html)
 
 ### 使用方法：  
-下载地址：xxxxxx
+下载地址：[http://pan.baidu.com/share/link?shareid=140276&uk=2298510329](http://pan.baidu.com/share/link?shareid=140276&uk=2298510329)
 
 ## 环境要求：
 * AIR安装文件需要AIR 3.5及其以上版本。
