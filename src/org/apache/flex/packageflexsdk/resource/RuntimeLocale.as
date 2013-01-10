@@ -119,46 +119,46 @@ public class RuntimeLocale
 		content["BTN_LABEL_BROWSE"]="Αναζήτηση";
 		content["BTN_LABEL_CLOSE"]="Έξοδος";
 		content["BTN_LABEL_INSTALL"]="Εγκατάσταση";
-		content["BTN_LABEL_INSTALL_LOG"]="α�?χείο καταγ�?αφής εγκατάστασης";
-		content["ERROR_CONFIG_XML_LOAD"]="Π�?όεκυψε σφάλμα στην π�?οσπάθεια φό�?τωσης του α�?χείου �?υθμίσεων XML:";
-		content["ERROR_INVALID_AIR_SDK_URL_MAC"]="Άκυ�?ο Adobe AIR SDK URL για Mac στο α�?χείο �?υθμίσεων";
-		content["ERROR_INVALID_AIR_SDK_URL_WINDOWS"]="Άκυ�?ο Adobe AIR SDK URL για Windows στο α�?χείο �?υθμίσεων";
-		content["ERROR_INVALID_FLASH_PLAYER_SWC_URL"]="Άκυ�?ο Flash Player swc URL στο α�?χείο �?υθμίσεων";
-		content["ERROR_INVALID_FLEX_SDK_DIRECTORY"]="Έχετε επιλέξει άκυ�?ο κατάλογο για το Flex SDK ";
-		content["ERROR_INVALID_SDK_URL"]="Ακυ�?ο Apache Flex SDK URL στο α�?χείο �?υθμίσεων.";
+		content["BTN_LABEL_INSTALL_LOG"]="α�?χείο καταγ�?αφής εγκατάστασης";
+		content["ERROR_CONFIG_XML_LOAD"]="Π�?όεκυψε σφάλμα στην π�?οσπάθεια φό�?τωσης του α�?χείου �?υθμίσεων XML:";
+		content["ERROR_INVALID_AIR_SDK_URL_MAC"]="Άκυ�?ο Adobe AIR SDK URL για Mac στο α�?χείο �?υθμίσεων";
+		content["ERROR_INVALID_AIR_SDK_URL_WINDOWS"]="Άκυ�?ο Adobe AIR SDK URL για Windows στο α�?χείο �?υθμίσεων";
+		content["ERROR_INVALID_FLASH_PLAYER_SWC_URL"]="Άκυ�?ο Flash Player swc URL στο α�?χείο �?υθμίσεων";
+		content["ERROR_INVALID_FLEX_SDK_DIRECTORY"]="Έχετε επιλέξει άκυ�?ο κατάλογο για το Flex SDK ";
+		content["ERROR_INVALID_SDK_URL"]="Ακυ�?ο Apache Flex SDK URL στο α�?χείο �?υθμίσεων.";
 		content["ERROR_NATIVE_PROCESS_ERROR"]="Λάθος στο Native Process Δεν είναι δυνατή η αποσυμπίεση (untar) του Adobe AIR SDK";
-		content["ERROR_NATIVE_PROCESS_NOT_SUPPORTED"]="Native Process δεν υποστη�?ίζεται. Δεν είναι δυνατή η αποσυμπίεση(untar)του Adobe AIR SDK";
-		content["ERROR_UNABLE_TO_COPY_FILE"]="Δεν είναι δυνατή η αντιγ�?αφή του α�?χείου ";
-		content["ERROR_UNABLE_TO_CREATE_TEMP_DIRECTORY"]="Δεν είναι δυνατή η δημιου�?γία π�?οσω�?ινο�? καταλόγου";
-		content["ERROR_UNABLE_TO_DELETE_TEMP_DIRECTORY"]="Δεν είναι δυνατή η εκκαθά�?ιση των π�?οσω�?ινών καταλόγων εγκατάστασης";
+		content["ERROR_NATIVE_PROCESS_NOT_SUPPORTED"]="Native Process δεν υποστη�?ίζεται. Δεν είναι δυνατή η αποσυμπίεση(untar)του Adobe AIR SDK";
+		content["ERROR_UNABLE_TO_COPY_FILE"]="Δεν είναι δυνατή η αντιγ�?αφή του α�?χείου ";
+		content["ERROR_UNABLE_TO_CREATE_TEMP_DIRECTORY"]="Δεν είναι δυνατή η δημιου�?γία π�?οσω�?ινο�? καταλόγου";
+		content["ERROR_UNABLE_TO_DELETE_TEMP_DIRECTORY"]="Δεν είναι δυνατή η εκκαθά�?ιση των π�?οσω�?ινών καταλόγων εγκατάστασης";
 		content["ERROR_UNABLE_TO_DOWNLOAD_AIR_SDK"]="Δεν είναι δυνατή η λήψη του Adobe AIR Runtime Kit";
 		content["ERROR_UNABLE_TO_DOWNLOAD_FLASH_PLAYER_SWC"]="Δεν είναι δυνατή η λήψη του Flash Player swc";
 		content["ERROR_UNABLE_TO_DOWNLOAD_FLEX_SDK"]="Δεν είναι δυνατή η λήψη του Apache Flex SDK";
-		content["ERROR_UNABLE_TO_INSTALL_CONFIG_FILES"]="Δεν είναι δυνατή η εγκατάσταση των α�?χείων �?υθμίσεων";
-		content["ERROR_UNSUPPORTED_OPERATING_SYSTEM"]="Δεν υποστη�?ίζεται το λειτου�?γικό σ�?στημα";
+		content["ERROR_UNABLE_TO_INSTALL_CONFIG_FILES"]="Δεν είναι δυνατή η εγκατάσταση των α�?χείων �?υθμίσεων";
+		content["ERROR_UNSUPPORTED_OPERATING_SYSTEM"]="Δεν υποστη�?ίζεται το λειτου�?γικό σ�?στημα";
 		content["INFO_ABORT_INSTALLATION"]="Ματαίωση εγκατάστασης";
-		content["INFO_APP_INVOKED"]="Κλήση με λειτου�?γία γ�?αμμής εντολών με τα ακόλουθα ο�?ίσματα:";
-		content["INFO_CREATING_FLEX_HOME"]="Δημιου�?γία α�?χικο�? καταλόγου για Apache Flex";
-		content["INFO_CREATING_TEMP_DIR"]="Δημιου�?γία π�?οσω�?ινο�? καταλόγου";
+		content["INFO_APP_INVOKED"]="Κλήση με λειτου�?γία γ�?αμμής εντολών με τα ακόλουθα ο�?ίσματα:";
+		content["INFO_CREATING_FLEX_HOME"]="Δημιου�?γία α�?χικο�? καταλόγου για Apache Flex";
+		content["INFO_CREATING_TEMP_DIR"]="Δημιου�?γία π�?οσω�?ινο�? καταλόγου";
 		content["INFO_DOWNLOADING_AIR_RUNTIME_KIT_MAC"]="Λήψη Adobe AIR Runtime Kit για Mac από:";
 		content["INFO_DOWNLOADING_AIR_RUNTIME_KIT_WINDOWS"]="Λήψη Adobe AIR Runtime Kit για Windows από:";
 		content["INFO_DOWNLOADING_FLEX_SDK"]="Λήψη Apache Flex SDK από:";
-		content["INFO_DOWNLOADED"]="Η λήψη ολοκλη�?ώθηκε";
-		content["INFO_ENTER_VALID_FLEX_SDK_PATH"]="Πα�?ακαλώ εισάγετε μια έγκυ�?η διαδ�?ομή καταλόγου για το the Flex SDK";
+		content["INFO_DOWNLOADED"]="Η λήψη ολοκλη�?ώθηκε";
+		content["INFO_ENTER_VALID_FLEX_SDK_PATH"]="Πα�?ακαλώ εισάγετε μια έγκυ�?η διαδ�?ομή καταλόγου για το the Flex SDK";
 		content["INFO_FINISHED_UNTARING"]="Η αποσυμπίεση τελείωσε:";
 		content["INFO_FINISHED_UNZIPPING"]="Η αποσυμπίεση τελείωσε:";
-		content["INFO_INSTALLATION_COMPLETE"]="Η εγκατάσταση ολοκλη�?ώθηκε.";
-		content["INFO_INSTALLING_CONFIG_FILES"]="Εγκατάσταση α�?χείων �?υθμίσεων για frameworks �?υθμισμένα για χ�?ήση IDE";
+		content["INFO_INSTALLATION_COMPLETE"]="Η εγκατάσταση ολοκλη�?ώθηκε.";
+		content["INFO_INSTALLING_CONFIG_FILES"]="Εγκατάσταση α�?χείων �?υθμίσεων για frameworks �?υθμισμένα για χ�?ήση IDE";
 		content["INFO_INSTALLING_PLAYERGLOBAL_SWC"]="Εγκατάσταση Adobe Flash Player playerglobal.swc από:";
-		content["INFO_INVOKED_GUI_MODE"]="Κλήση με λειτου�?γία γ�?αφικο�? πε�?ιβάλλοντος";
+		content["INFO_INVOKED_GUI_MODE"]="Κλήση με λειτου�?γία γ�?αφικο�? πε�?ιβάλλοντος";
 		content["INFO_SELECT_DIRECTORY"]="Επιλέξτε ένα κατάλογο";
 		content["INFO_UNZIPPING"]="Ααποσυμπίεση: ";
-		content["SELECT_PATH_PROMPT"]="Πληκτ�?ολογήστε η επιλέξτε μια έγκυ�?η διαδ�?ομή για το Flex SDK";
-		content["STEP_CREATE_DIRECTORIES"]="Δημιου�?γία Καταλόγων";
+		content["SELECT_PATH_PROMPT"]="Πληκτ�?ολογήστε η επιλέξτε μια έγκυ�?η διαδ�?ομή για το Flex SDK";
+		content["STEP_CREATE_DIRECTORIES"]="Δημιου�?γία Καταλόγων";
 		content["STEP_DOWNLOAD_AIR_RUNTIME_KIT"]="Λήψη Adobe AIR Runtime Kit";
 		content["STEP_DOWNLOAD_FLASHPLAYER_SWC"]="Λήψη Flash Player swc";
 		content["STEP_DOWNLOAD_FLEX_SDK"]="Λήψη Apache Flex SDK";
-		content["STEP_INSTALL_CONFIG_FILES"]="Εγκατάσταση α�?χείων �?υθμίσεων του Framework";
+		content["STEP_INSTALL_CONFIG_FILES"]="Εγκατάσταση α�?χείων �?υθμίσεων του Framework";
 		content["STEP_UNZIP_AIR_RUNTIME_KIT"]="Ααποσυμπίεση Adobe AIR Runtime Kit";
 		content["STEP_UNZIP_FLEX_SDK"]="Ααποσυμπίεση Apache Flex SDK";
 		
@@ -297,7 +297,11 @@ public class RuntimeLocale
 		content["ASK_BLAZEDS"]="Apache Flex can optionally integrate with Adobe BlazeDS. This feature requires flex-messaging-common.jar from the Adobe Flex SDK. The Adobe SDK license agreement for Adobe Flex 4.6 applies to this jar. This license is not compatible with the Apache V2 license. Do you want to install this jar from the Adobe Flex SDK?"
 		content["ASK_FONTSWF"]="Apache Flex can optionally integrate with Adobe's embedded font support. This feature requires a few font jars from the Adobe Flex SDK. The Adobe SDK license agreement for Adobe Flex 4.6 applies to these jars. This license is not compatible with the Apache V2 license. Do you want to install these jars from the Adobe Flex SDK?";
 		content["ASK_OSMF"]="The Open Source Media Framework (OSMF) used by the video components is licensed under the Mozilla Public License Version 1.1.  Do you want to install the Open Source Media Framework (OSMF)?";
-		content["ASK_TLF"]="The Adobe Text Layout Framework (TLF) used by the Spark text components is licensed under the Mozilla Public License Version 1.1.  Do you want to install the Adobe Text Layout Framework (TLF)?";
+		
+		//delete 2013-01-10 by kenshin
+		//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+		//content["ASK_TLF"]="The Adobe Text Layout Framework (TLF) used by the Spark text components is licensed under the Mozilla Public License Version 1.1.  Do you want to install the Adobe Text Layout Framework (TLF)?";
+		
 		content["ASK_APACHE_FLEX"]="The Apache License V2 applies to the Apache Flex SDK.  Do you want to install the Apache Flex SDK?";
 		content["ASK_ADOBE_AIR_SDK"]="The Adobe SDK license agreement applies to the Adobe AIR SDK.  Do you want to install the Adobe AIR SDK?";
 		content["ASK_ADOBE_FLASH_PLAYER_GLOBAL_SWC"]="The Adobe SDK license agreement applies to the Adobe Flash Player playerglobal.swc.  Do you want to install the Adobe Flash Player playerglobal.swc?";
@@ -379,7 +383,11 @@ public class RuntimeLocale
 		content["STEP_REQUIRED_INSTALL_SWFOBJECT"]="SWFObject (Required)";
 		content["STEP_INSTALL_CONFIG_FILES"]="Install Framework Configuration Files";
 		content["STEP_REQUIRED_INSTALL_OSMF"]="OSMF (Required)";
-		content["STEP_REQUIRED_INSTALL_TLF"]="Adobe Text Layout Framework (Required)";
+
+		//delete 2013-01-10 by kenshin
+		//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+		//content["STEP_REQUIRED_INSTALL_TLF"]="Adobe Text Layout Framework (Required)";
+
 		content["STEP_OPTIONAL_INSTALL_BLAZEDS"]="BlazeDS (Optional)";
 		content["STEP_OPTIONAL_INSTALL_FONTSWF"]="Adobe Embedded Font Libraries and Utilities (Optional)";
 		content["STEP_REQUIRED_UNZIP_AIR_RUNTIME_KIT"]="Uncompress Adobe AIR Runtime Kit";
@@ -484,7 +492,11 @@ public class RuntimeLocale
 		content["ASK_BLAZEDS"]="Apache Flex pode, opcionalmente, integrar-se com Adobe BlazeDS. Esta integração requer flex-messaging-common.jar do Adobe Flex SDK, que esta sob o contrato de licença do Adobe SDK para Adobe Flex 4.6. Esta licença não é compatível com a licença Apache V2. Você quer instalar este jar a partir do Adobe Flex SDK?";
 		content["ASK_FONTSWF"]="Apache Flex pode, opcionalmente, integrar-se com o suporte de fontes embutidas da Adobe. Este recurso requer alguns jars do Adobe Flex SDK, que estão sob o contrato de licença do Adobe Flex 4.6. Esta licença não é compatível com a licença Apache V2. Você quer instalar estes jars a partir do Adobe Flex SDK?";
 		content["ASK_OSMF"]="O Open Source Media Framework (OSMF) utilizado pelos componentes de video está sob a licença Mozilla Public License Version 1.1.";
-		content["ASK_TLF"]="O Adobe Text Layout Framework (TLF) utilizado pelos componentes de texto Spark está sob a licença Mozilla Public License Version 1.1.";
+
+		//delete 2013-01-10 by kenshin
+		//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+		//content["ASK_TLF"]="O Adobe Text Layout Framework (TLF) utilizado pelos componentes de texto Spark está sob a licença Mozilla Public License Version 1.1.";
+
 		content["BTN_LABEL_ADOBE_LICENSE"]="LICENÇA ADOBE";
 		content["BTN_LABEL_BROWSE"]="SELEC.";
 		content["BTN_LABEL_CLOSE"]="FECHAR";
@@ -563,7 +575,11 @@ public class RuntimeLocale
 		content["STEP_OPTIONAL_INSTALL_BLAZEDS"]="BlazeDS (Opcional)";
 		content["STEP_OPTIONAL_INSTALL_FONTSWF"]="Adobe Embedded Font Libraries and Utilities (Opcional)";
 		content["STEP_OPTIONAL_INSTALL_OSMF"]="OSMF (Obrigatório)";
-		content["STEP_OPTIONAL_INSTALL_TLF"]="Adobe Text Layout Framework (Obrigatório)";
+
+		//delete 2013-01-10 by kenshin
+		//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+		//content["STEP_OPTIONAL_INSTALL_TLF"]="Adobe Text Layout Framework (Obrigatório)";
+
 		content["STEP_UNZIP_AIR_RUNTIME_KIT"]="Descompactando Adobe AIR Runtime Kit";
 		content["STEP_UNZIP_FLEX_SDK"]="Descompactando Apache Flex SDK";
 		content["STEP_VERIFY_FLEX_SDK"]="Verificação da assinatura MD5 - Apache Flex SDK";

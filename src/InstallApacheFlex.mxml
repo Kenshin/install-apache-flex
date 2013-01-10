@@ -144,8 +144,10 @@ variables are not required because the locations of these pieces are known.
 		private var OSMF_FILE:String;
 		private var OSMF_URL:String;
 		
-		private var TLF_FILE:String;
-		private var TLF_URL:String;
+		//delete 2013-01-10 by kenshin
+		//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+		//private var TLF_FILE:String;
+		//private var TLF_URL:String;
 		
 		private var BLAZEDS_FILE:String;
 		private var BLAZEDS_URL:String;
@@ -350,8 +352,10 @@ variables are not required because the locations of these pieces are known.
 			OSMF_FILE = files.(@name == 'OSMF').@file.toString();
 			OSMF_URL = files.(@name == 'OSMF').@path.toString();
 			
-			TLF_FILE = files.(@name == 'TLF').@file.toString();
-			TLF_URL = files.(@name == 'TLF').@path.toString();
+			//delete 2013-01-10 by kenshin
+			//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+			//TLF_FILE = files.(@name == 'TLF').@file.toString();
+			//TLF_URL = files.(@name == 'TLF').@path.toString();
 			
 			BLAZEDS_FILE = files.(@name == 'BlazeDS').@file.toString();
 			BLAZEDS_URL = files.(@name == 'BlazeDS').@path.toString();
@@ -505,7 +509,10 @@ variables are not required because the locations of these pieces are known.
 			_installationSteps.addItem(new StepItem(_viewResourceConstants.STEP_INSTALL_CONFIG_FILES));
 			_installationSteps.addItem(new StepItem(_viewResourceConstants.STEP_REQUIRED_INSTALL_SWFOBJECT));
 			_installationSteps.addItem(new StepItem(_viewResourceConstants.STEP_REQUIRED_INSTALL_OSMF));
-			_installationSteps.addItem(new StepItem(_viewResourceConstants.STEP_REQUIRED_INSTALL_TLF));
+
+			//delete 2013-01-10 by kenshin
+			//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+			//_installationSteps.addItem(new StepItem(_viewResourceConstants.STEP_REQUIRED_INSTALL_TLF));
 		}
 		
 		protected function resetInstallStepsActivity():void
@@ -562,12 +569,16 @@ variables are not required because the locations of these pieces are known.
 					_viewResourceConstants.LICENSE_OSMF,
 					_viewResourceConstants.LICENSE_URL_OSMF,
 					true));
-			_installerComponentsDataProvider.addItem(
-				new InstallerComponentVO(_viewResourceConstants.STEP_REQUIRED_INSTALL_TLF,
-					_viewResourceConstants.ASK_TLF, 
-					_viewResourceConstants.LICENSE_TLF,
-					_viewResourceConstants.LICENSE_URL_TLF,
-					true));
+
+			//delete 2013-01-10 by kenshin
+			//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+			//_installerComponentsDataProvider.addItem(
+			//	new InstallerComponentVO(_viewResourceConstants.STEP_REQUIRED_INSTALL_TLF,
+			//		_viewResourceConstants.ASK_TLF, 
+			//		_viewResourceConstants.LICENSE_TLF,
+			//		_viewResourceConstants.LICENSE_URL_TLF,
+			//		true));
+
 			_installerComponentsDataProvider.addItem(
 				new InstallerComponentVO(_viewResourceConstants.STEP_OPTIONAL_INSTALL_FONTSWF,
 					_viewResourceConstants.ASK_FONTSWF, 
@@ -1282,7 +1293,13 @@ variables are not required because the locations of these pieces are known.
 				updateOptionalComponentInstallStatus(_viewResourceConstants.STEP_REQUIRED_INSTALL_OSMF,true);
 				updateOptionalComponentInstallStatusAborted(_viewResourceConstants.STEP_REQUIRED_INSTALL_OSMF,false);
 				updateActivityStep(_viewResourceConstants.STEP_REQUIRED_INSTALL_OSMF, StepItem.COMPLETE);
-				installTLF();
+				
+				//delete 2013-01-10 by kenshin
+				//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
+				//installTLF();
+				
+				//add 2013-01-10 by kenshin
+				installNextOptionalComponent();
 			}
 			catch (e:Error)
 			{
@@ -1292,6 +1309,9 @@ variables are not required because the locations of these pieces are known.
 			}
 		}
 		
+		/*
+		//delete 2013-01-10 by kenshin
+		//apache flex sdk 4.9.0 has no need of adobe text layout framework(tlf)
 		protected function installTLF():void
 		{
 			updateActivityStep(_viewResourceConstants.STEP_REQUIRED_INSTALL_TLF,StepItem.ACTIVE);
@@ -1325,6 +1345,7 @@ variables are not required because the locations of these pieces are known.
 				installNextOptionalComponent();
 			}
 		}
+		*/
 		
 		protected function copyFileToOptionalLibDir(file:File):void
 		{

@@ -14,6 +14,10 @@ Apache Flex SDK Installer
 * 全部代码构基于Flash Builder 4.7并构建在Flex SDK 4.6.0.23201B & AIR SDK 3.5上。
 
 ## 更新日志：
+version 1.0.11 [2013-01-10]
+* 将Adobe Text Layout Framework（TLF）相关的一些删除。（Apache Flex SDK 4.9.0 不需要重新下载TLF）
+* 修复了升级的Bug。（此升级无效 sdk-installer-config.xml中<latest>的内容改为1.0.9）
+
 version 1.0.10 [2013-01-06]
 * 适用于Apache Flex SDK 4.9.0
 
