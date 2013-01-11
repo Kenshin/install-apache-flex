@@ -6,7 +6,7 @@ Apache Flex SDK Installer
 * 自动下载Adobe AIR SDK 3.5.0（原版下载的版本为：3.1.0）
 * 原版代码(1.0.9)下载地址：[http://flex.apache.org/installer.html](http://flex.apache.org/installer.html)
 
-### 下载地址：  
+## 下载地址：  
 * （已废除）[http://pan.baidu.com/share/link?shareid=140276&uk=2298510329](http://pan.baidu.com/share/link?shareid=140276&uk=2298510329)
 * （新地址）[http://pan.baidu.com/share/link?shareid=145070&uk=2298510329](http://pan.baidu.com/share/link?shareid=145070&uk=2298510329)
 
