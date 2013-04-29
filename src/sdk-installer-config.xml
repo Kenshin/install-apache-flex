@@ -40,14 +40,14 @@ limitations under the License.
 			 	- path is relative to mirror URL
 			 	- don't use starting slash 
 			 	- for the second and later releases, remove the extension from the file name -->
-		<file name="ApacheFlexSDK" path="incubator/flex/4.9.0/binaries/" file="apache-flex-sdk-4.9.0-bin.zip" />
+		<file name="ApacheFlexSDK" path="flex/4.9.1/binaries/" file="apache-flex-sdk-4.9.1-bin" />
 		
 		<!-- Adobe AIR SDK -->
-		<file name="AdobeAIRSDKWin" path="http://airdownload.adobe.com/air/win/download/3.5/" file="AdobeAIRSDK.zip" />
-		<file name="AdobeAIRSDKMac" path="http://airdownload.adobe.com/air/mac/download/3.5/" file="AdobeAIRSDK.tbz2" />
+		<file name="AdobeAIRSDKWin" path="http://airdownload.adobe.com/air/win/download/3.7/" file="AdobeAIRSDK.zip" />
+		<file name="AdobeAIRSDKMac" path="http://airdownload.adobe.com/air/mac/download/3.7/" file="AdobeAIRSDK.tbz2" />
 		
 		<!-- Adobe Flash Player player global swc -->
-		<file name="FlashPlayer" path="http://fpdownload.macromedia.com/get/flashplayer/updaters/11/" file="playerglobal11_1.swc" />
+		<file name="FlashPlayer" path="http://fpdownload.macromedia.com/get/flashplayer/updaters/11/" file="playerglobal11_7.swc" />
 
 		<!-- SWFObject.js -->
 		<file name="swfobject" path="http://swfobject.googlecode.com/files/" file="swfobject_2_2.zip" />
