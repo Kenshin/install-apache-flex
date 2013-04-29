@@ -15,7 +15,7 @@ Apache Flex SDK Installer
 * 全部代码构基于Flash Builder 4.7并构建在Flex SDK 4.6.0.23201B & AIR SDK 3.5上。
 
 ## 更新日志：
-version 1.0.12 [2013-04-2]
+version 1.0.12 [2013-04-29]
 * 升级Apache Flex SDK 4.9.1
 * 升级Adobe AIR SDK 3.7
 * 升级playerglobal.swc 11.7
